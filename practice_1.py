@@ -156,4 +156,5 @@ while all_km >= temp:
     temp += temp * 1.1
     count_day += 1
 
+
 print(int(count_day))
